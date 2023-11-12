@@ -47,6 +47,11 @@ export default function App() {
               className="desktopImage"
               alt="illustrationDesktop"
             />
+            <img
+              src={illustrationMobile}
+              className="mobileImage d-none"
+              alt="illustrationMobile"
+            />
           </div>
         </div>
       </div>
